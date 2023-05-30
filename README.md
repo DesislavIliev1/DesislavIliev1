@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Java and Java SpringBoot framework**
 
-- 🤝 I’m looking for **intership or junior job**
+- 🤝 I’m looking for **internship or junior job**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DesislavIliev1](https://github.com/DesislavIliev1)
 
